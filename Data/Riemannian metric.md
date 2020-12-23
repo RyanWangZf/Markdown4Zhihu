@@ -2,16 +2,10 @@
 
 直接上图，来自文章 [1]。
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Pic/image-20201222231109524.png" width="300">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">二维Riemannian manifold示意图</div>
-</center>
+
+
+<img src="Pic/image-20201222231109524.png" width="300">
+
 
 
 形象地说，我们可以把manifold看成一个光滑的平面，平面上的每一个点上都可以做一个切面。这个切面上是符合欧式空间的定义的，或者说它就是一个平坦的面。比如，在地球上，人在平原上看到的附近的地面都是平坦的，感受不到曲率。
